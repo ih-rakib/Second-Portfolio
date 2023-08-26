@@ -207,7 +207,7 @@ section {
     gap: 100px;
     background: var(--dark-01, #151414);
     color: #FFF;
-    padding: 100px;
+    padding: 100px 200px;
     margin: 0;
 }
 
